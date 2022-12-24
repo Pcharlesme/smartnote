@@ -1,4 +1,4 @@
-# toddo
+# Smart Note
 
 A new Flutter project.
 
